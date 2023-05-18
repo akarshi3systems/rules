@@ -1,0 +1,35 @@
+,,,,,,,,
+,name,description,wbc_count,decision_1,,,,
+,Elevated WBC count,WBC count is more than 12000,>12000,Decline/Postpone,,,,
+,,,,,,,,
+,name,description,esr,fbs,hba1c,total_cholesterol,triglycerides,decision_1
+,Elevated ESR,ESR greater than 60,>60,,,,,Decline/Postpone
+,Elevated FBS,FBS greate than 180,,>180,,,,Decline/Postpone
+,Elevated HBA1C,HBA1C greater than 9,,,>9,,,Decline/Postpone
+,Elevated Total Cholestrol,Total Cholestrol greater than 500,,,,>500,,Decline/Postpone
+,Elevated Triglycerides,Triglycerides greater than 600,,,,,>600,Decline/Postpone
+,,,,,,,,
+,name,description,SGPT,SGOT,GGTP,decision_1,,
+,Elevated SGPT,SGPT greater than 300,>300,,,Decline/Postpone,,
+,Elevated SGOT,SGOT greater than 300,,>300,,Decline/Postpone,,
+,Elevated GGTP,GGTP greater than 300,,,>300,Decline/Postpone,,
+,,,,,,,,
+,name,description,bilirubin,decision_1,,,,
+,Elevated Bilirubin,Bilirubin greater than 3,>3,Decline/Postpone,,,,
+,,,,,,,,
+,name,description,haemoglobin,decision_1,,,,
+,Low Haemoglobin,Haemoglobin less than 7.5,<7.5,Decline/Postpone,,,,
+,,,,,,,,
+,name,description,platelet_count,decision_1,,,,
+,Low Platelet Count,Platelet Count less than 1 lac,<100000,Decline/Postpone,,,,
+,Elevated Platelet Count,Platelet Count greater than 5 lac,>500000,Decline/Postpone,,,,
+,,,,,,,,
+,name,description,bmi,systolic,distolic,pulse_rate,decision_1,
+,BMI is below range,BMI less than 14,<14,,,,Decline/Postpone,
+,BMI above range,BMI greater than 38.5,>38.5,,,,Decline/Postpone,
+,High Pulse Rate,Pluse Rate greater than 130,,,,>130,Decline/Postpone,
+,Systolic greater than 160,Systolic greater than 160,,>160,,,Decline/Postpone,
+,Distolic greater than 110,Distolic greater than 110,,,>110,,Decline/Postpone,
+,,,,,,,,
+,name,description,creatinine_sv,decision_1,,,,
+,Elevated Creatinine,Creatinine greater than 3.5,>3.5,Decline/Postpone,,,,
